@@ -1,0 +1,30 @@
+/* TODO: design your profile with CSS */
+body {
+	background-color: white;
+}
+
+img {
+	height: 80px;
+	width: 80px;
+	border-radius: 50%;
+}
+
+h1 {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-size: 64px;
+	
+
+}
+
+h2 {
+	color: black;
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	
+}
+
+p {
+	font-family: Arial, sans-serif;
+	
+}
