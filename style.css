@@ -8,16 +8,17 @@ body {
 }
 
 img {
-	height: 80px;
-	width: 80px;
+	height: 200px;
+	width: 200px;
 	border-radius: 50%;
+	object-fit: cover;
 }
 
 h1 {
 	color: #3A86FF;
-  	font-size: 32px;
+  	font-size: 56px;
   	font-weight: 900;
-	
+	font-family: 'Great Vibes', cursive;
 }
 
 h2 {
@@ -26,7 +27,7 @@ h2 {
 	
 }
 
-h1, h2, h3 {
+h2, h3 {
 	font-family: 'Roboto', sans-serif;
 }
 
